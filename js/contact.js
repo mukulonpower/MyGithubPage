@@ -10,7 +10,7 @@ function sendWhatsApp(){
     return;
   }
 
-  let phone = "919760233531"; // your number
+  let phone = "918476003531"; // your number
 
 let text = `Hello OnPower Technologies,%0A%0A
 I would like to request a quote.%0A%0A
